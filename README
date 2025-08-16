@@ -1,0 +1,1 @@
+Easy solution to LAN file transfer, that is probably secure enough to run in production. Uses Formidable v3, minimal dependencies and ECMAScript modules.
